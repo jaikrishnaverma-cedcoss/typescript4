@@ -1,0 +1,19 @@
+.widths{
+  min-width: 350px;
+  border:3px solid skyblue;
+  border-radius: 10px;
+}
+.btn-primary{
+  background-color: rgb(33, 143, 187);
+  border-color: rgb(33, 143, 187);
+}
+.wids{
+  min-width: 350px;
+}
+.wid{
+  max-width: 400px;
+  min-width: 400px;
+}
+body{
+  background-color: rgb(213, 233, 252);
+}
